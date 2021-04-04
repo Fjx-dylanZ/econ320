@@ -1,1 +1,2 @@
-# econ320
+## Econ 320 Group Research Projects
+
